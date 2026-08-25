@@ -1,1 +1,1 @@
-![gif](./OfficeMonkey.gif)
+![gif](./spike-monkey-typing.gif)
